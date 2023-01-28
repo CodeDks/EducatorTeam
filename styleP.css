@@ -1,0 +1,31 @@
+#nav_cont {
+    background-color: #00b894;
+}
+
+#col12 {
+    margin-top: 50px;
+}
+
+#i_1 {
+    font-size: 30px;
+    margin-bottom: 11px;
+}
+
+#body_cont {
+    background-color: #d3cdc21f;
+}
+
+/* inside cor */
+
+#pic_height {
+    height: 300px;
+    opacity: 0.8;
+}
+
+/* footer */
+
+.anchor {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
